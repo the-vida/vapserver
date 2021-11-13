@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
-	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"ip":"vidaproduction.aternos.me",
+	"port": "53200",
+	"name": "§0Minecraft",
+	"auto-night-skip":"false"
 }
