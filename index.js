@@ -28,8 +28,8 @@ bot.loadPlugin(cmd)
 
 
 bot.on('login',function(){
-	console.log("Logged In")
-	bot.chat("hello");
+	console.log("Přihlášeno")
+	bot.chat("§0Minecraft§a Admin");
 });
 
 bot.on('time', function(time) {
